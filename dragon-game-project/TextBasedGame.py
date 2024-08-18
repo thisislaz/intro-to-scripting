@@ -42,7 +42,7 @@ def check_completed_tasks(arr):
 #function to show the game's instructions
 def show_instructions():
     print(f"\nHello, {player_name}.")
-    print("The rules are simple. Collect your wife's task list and complete all six tasks.")
+    print("The rules are simple. Complete your wife's six tasks.")
     print(f"Refuse? {'Fail and lose everything!!'.upper()}\n")
     print("You need to travel from room to room completing each of your tasks.\n"
           "Travel directions: north, south, east, west \n"
